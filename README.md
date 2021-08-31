@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Orez : Prototype Rice Disease Detection System
 A mobile application using Flutter designed for Pixel 2 device.
 Credit to Pawan for his demo of TfLite in Flutter : https://github.com/iampawan/TFLite-Flutter
@@ -33,3 +34,21 @@ We trained a deep-learning model in Azure using the dataset given : https://www.
 Gallery or Google Drive is accessible to use for input.
 </p>
 
+=======
+# tflite_demo
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> 8df4b6e (- Pulled from Pawan's repo and changed code to use CustomVision Image Classification model trained in Azure)
