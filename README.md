@@ -24,7 +24,7 @@ Prototype is supposed to receive video input from drone, but since we do not hav
 <p>
 We trained a deep-learning model in Azure using the dataset given 
 </p>
-[here](https://www.kaggle.com/minhhuy2810/rice-diseases-image-dataset)
+![here]here(https://www.kaggle.com/minhhuy2810/rice-diseases-image-dataset)
 
 <h2>• Access Gallery for Image Input</h2>
 
