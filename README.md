@@ -22,9 +22,9 @@ Prototype is supposed to receive video input from drone, but since we do not hav
 <h2>• Uses Artificial Intelligence to Predict Rise Disease</h2>
 
 <p>
-We trained a deep-learning model in Azure using the dataset given 
+We trained a deep-learning model in Azure using the dataset given : https://www.kaggle.com/minhhuy2810/rice-diseases-image-dataset
 </p>
-![here]here(https://www.kaggle.com/minhhuy2810/rice-diseases-image-dataset)
+
 
 <h2>• Access Gallery for Image Input</h2>
 
