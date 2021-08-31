@@ -1,5 +1,6 @@
 # Orez : Prototype Rice Disease Detection System
 A mobile application using Flutter designed for Pixel 2 device.
+Credit to Pawan for his demo of TfLite in Flutter : https://github.com/iampawan/TFLite-Flutter
 
 <h1>Description</h1>
 
