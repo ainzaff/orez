@@ -14,7 +14,7 @@ description: A new Flutter project.
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.2.0 <3.0.0"
 
 dependencies:
   flutter:
@@ -36,6 +36,19 @@ dev_dependencies:
 
 # The following section is specific to Flutter.
 flutter:
+  fonts:
+    - family: Titania
+      fonts:
+        - asset: assets/fonts/Titania-Regular.ttf
+    - family: PlantinMTProRg
+      fonts:
+        - asset: assets/fonts/PlantinMTProRg.TTF
+    - family: Syntha
+      fonts:
+        - asset: assets/fonts/Syntha.ttf
+    - family: Digitechno
+      fonts:
+        - asset: assets/fonts/Digitechno-FreeVersion.ttf
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
@@ -48,6 +61,26 @@ flutter:
     - assets/tflite/yolov2_tiny.txt
     - assets/tflite/orezmodel.tflite
     - assets/tflite/labels.txt
+    - assets/images/paddy.png
+    - assets/images/drone.png
+    - assets/images/no_image.png
+    - assets/images/paddy1.jpg
+    - assets/images/paddy2.jpg
+    - assets/images/paddy3.jpg
+    - assets/images/paddy4.jpg
+    - assets/images/paddy5.jpg
+    - assets/images/paddy6.jpg
+    - assets/images/paddy7.jpg
+    - assets/images/paddy8.jpg
+    - assets/images/paddy9.jpg
+    - assets/images/paddy10.jpg
+    - assets/images/paddy11.jpg
+    - assets/images/paddy12.jpg
+    - assets/images/paddy13.jpg
+    - assets/images/paddy14.jpg
+    - assets/images/paddy15.jpg
+    - assets/images/paddy16.jpg
+
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
   # For details regarding adding assets from package dependencies, see
